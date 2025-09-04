@@ -1,0 +1,14 @@
+{
+  "name": "collaborative-document-editor-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15",
+    "body-parser": "^1.19.0",
+    "ws": "^7.4.6"
+  }
+}
